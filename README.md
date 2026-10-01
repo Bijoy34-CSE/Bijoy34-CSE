@@ -1,6 +1,6 @@
 # Hi there, I'm Bijoy Kumar Paul 👋
 
-### 💻 CSE Student | Full-Stack Web Developer | AI & ML Enthusiast
+### 💻 CSE Student | Full-Stack Web Developer 
 
 I'm a Computer Science & Engineering student who enjoys building practical software projects and learning modern technologies. I’m currently focused on **Full-Stack Web Development, AI-powered applications, and Machine Learning**.
 
