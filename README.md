@@ -1,100 +1,70 @@
-# Hi there, I'm Bijoy Kumar Paul 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bijoy%20Kumar%20Paul&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" alt="Banner" />
+</p>
 
-### 💻 CSE Student | Full-Stack Web Developer 
+<h3 align="center">💻 CSE Student @ Khulna University | Full-Stack Web Developer |</h3>
 
-I'm a Computer Science & Engineering student who enjoys building practical software projects and learning modern technologies. I’m currently focused on **Full-Stack Web Development, AI-powered applications, and Machine Learning**.
+<p align="center">
+  <a href="https://github.com/Bijoy34-CSE"><img src="https://img.shields.io/badge/GitHub-Bijoy34--CSE-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering student
-- 💻 Interested in **Full-Stack Web Development**
-- 🤖 Exploring **AI, Machine Learning & Agentic AI**
-- 🌱 Currently improving my **JavaScript, TypeScript, React, Next.js and Node.js** skills
-- 🔨 Building practical projects with **MERN Stack**
-- 📚 Working on an academic **Human Activity Recognition** research project
-- 🎯 Goal: Become a skilled software engineer and build useful real-world applications
+I'm a Computer Science & Engineering student at **Khulna University** who enjoys building practical software and learning modern technologies. I focus on **Full-Stack Web Development** and **AI / Machine Learning**, and I love turning ideas into real, useful applications.
+
+### 🔭 What I'm Doing Now
+
+- 🌱 Exploring **Next.js**, **TypeScript** and advanced **React** patterns
+- 🔨 Building **InterviewMate**, an AI-powered interview & viva preparation platform (MERN)
+- 📚 Working on a **Human Activity Recognition** research project (CNN + Bi-GRU)
+- 🤖 Learning **Agentic AI** and how to integrate LLMs into web apps
+- 🎯 Goal: become a skilled software engineer building useful real-world products
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend & Database" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pytorch&theme=dark" alt="Tools" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 InterviewMate
-**AI-Powered Interview & Viva Preparation Platform**
+### 🤖 [InterviewMate](https://github.com/Bijoy34-CSE/cseku_26_wpl_InterviewMate)
+**AI-Powered Interview & Viva Preparation Platform.** Helps users prepare for job interviews, academic vivas, internships and scholarships.
+`MERN Stack` `TypeScript` `AI`
 
-A full-stack platform designed to help users prepare for job interviews, academic vivas, internships, scholarships, and other interview scenarios.
+### 🛠️ [5 Dev Stack Builder](https://github.com/Bijoy34-CSE/Assignment-05)
+A website for building and exploring a developer stack.
+`JavaScript` `Web`
 
-**Tech:** MERN Stack, AI, TypeScript
-
----
-
-### 🏃 Human Activity Recognition
-**CNN + Bi-directional Residual GRU**
-
-An academic research project for recognizing human activities from video using deep learning.
-
-**Tech:** Python, PyTorch, CNN, Bi-directional GRU, Computer Vision
-
----
-
-### 🏏 Cricket App
-A web application for exploring cricket-related information and practicing full-stack development concepts.
-
-**Tech:** JavaScript / Web Technologies
-
----
-
-### 📅 Event Management System
-A web-based application for managing events and related information.
-
-**Tech:** Web Development
+### 🏏 Cricket App &nbsp;|&nbsp; 📅 Event Management System
+Web applications built to practice full-stack development concepts.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijoy34-CSE&show_icons=true&theme=tokyonight&hide_border=true" alt="Bijoy's GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijoy34-CSE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijoy34-CSE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-## 📈 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bijoy34-CSE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -104,11 +74,16 @@ A web-based application for managing events and related information.
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@Bijoy34-CSE](https://github.com/Bijoy34-CSE)
-- 📍 Khulna, Bangladesh
+<p align="center">
+  <a href="https://github.com/Bijoy34-CSE"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+<p align="center">📍 Khulna, Bangladesh &nbsp;|&nbsp; 📧 YOUR_EMAIL@gmail.com</p>
 
 ---
 
-### 💡 “Keep learning. Keep building. Keep improving.”
-
-Thanks for visiting my profile! ⭐
+<p align="center"><i>“Keep learning. Keep building. Keep improving.”</i></p>
+<p align="center">Thanks for visiting my profile! ⭐</p>
