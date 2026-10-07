@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Bijoy34-CSE"><img src="https://img.shields.io/badge/GitHub-Bijoy34--CSE-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:bijoy220234@cseku.ac.bd"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
