@@ -77,11 +77,11 @@ Web applications built to practice full-stack development concepts.
 <p align="center">
   <a href="https://github.com/Bijoy34-CSE"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/bijoy-kumar-paul-97a020442"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="[https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/19fvLFaDce/)"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.facebook.com/bijoy.paul.220234"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="mailto:bijoy220234@cseku.ac.bd"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-<p align="center">📍 Khulna, Bangladesh &nbsp;|&nbsp; 📧 YOUR_EMAIL@gmail.com</p>
+<p align="center">📍 Khulna, Bangladesh &nbsp;|&nbsp; 📧 bijoy220234@cseku.ac.bd</p>
 
 ---
 
