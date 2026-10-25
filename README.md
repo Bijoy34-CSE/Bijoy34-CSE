@@ -77,7 +77,7 @@ Web applications built to practice full-stack development concepts.
 <p align="center">
   <a href="https://github.com/Bijoy34-CSE"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/bijoy-kumar-paul-97a020442"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.facebook.com/bijoy.paul.220234"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.facebook.com/bijoy.paul.220234"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" /></a>
   <a href="mailto:bijoy220234@cseku.ac.bd"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
